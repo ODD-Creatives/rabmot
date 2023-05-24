@@ -24,17 +24,18 @@ Auth::routes([
 ]);
 
 Route::get('/home', [App\Http\Controllers\HomeController::class, 'index'])->name('home')->middleware('verified');
-Route::get('/aboutus', [App\Http\Controllers\WebController::class, 'aboutus'])->name('aboutus');
+Route::get('/aboutus', [App\Http\Controllers\WebController::class, 'aboutus'])->name('aboutus'); 
+Route::get('/contactus', [App\Http\Controllers\WebController::class, 'contactus'])->name('contactus');
 Route::get('/faq', [App\Http\Controllers\WebController::class, 'faq'])->name('faq');
 Route::get('/help', [App\Http\Controllers\WebController::class, 'help'])->name('help');
 Route::get('/loginV', [App\Http\Controllers\HomeController::class, 'loginV'])->name('loginV');
 Route::get('/signupV', [App\Http\Controllers\HomeController::class, 'signupV'])->name('signupV');
-Route::get('/loginA', [App\Http\Controllers\HomeController::class, 'loginA'])->name('loginA');
-Route::get('/signupA', [App\Http\Controllers\HomeController::class, 'signupA'])->name('signupA');
-Route::get('/air', [App\Http\Controllers\WebController::class, 'air'])->name('air.index');
+Route::get('/community', [App\Http\Controllers\WebController::class, 'community'])->name('community');
+Route::get('/pricing', [App\Http\Controllers\WebController::class, 'pricing'])->name('pricing');
+Route::get('/terms', [App\Http\Controllers\WebController::class, 'terms'])->name('terms');
+Route::get('/policy', [App\Http\Controllers\WebController::class, 'policy'])->name('policy');
+Route::get('/discusion', [App\Http\Controllers\WebController::class, 'discusion'])->name('discusion');
 Route::get('/land', [App\Http\Controllers\WebController::class, 'land'])->name('land.index');
-Route::get('/water', [App\Http\Controllers\WebController::class, 'water'])->name('water.index');
-Route::get('/rail', [App\Http\Controllers\WebController::class, 'rail'])->name('rail.index');
 
 // Route::get('/email/verify', function () {
 //     return view('auth.verify-email');
