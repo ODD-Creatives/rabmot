@@ -1,122 +1,323 @@
-<!--Slider Area Start-->
+<head>
+<link rel=icon href=favicon.png sizes="20x20" type="image/png">
+    <!-- flaticon -->
+    <link rel="stylesheet" href="assets-slide/css/flaticon.css">
+    <!-- Fonts Awesome Icons -->
+    <link rel="stylesheet" href="assets-slide/css/fontawesome.min.css">
+    <!--Themefy Icons-->
+    <link rel="stylesheet" href="assets-slide/css/themify-icons.css">
+    <!-- bootstrap -->
+    <link rel="stylesheet" href="assets-slide/css/bootstrap.min.css">
+    <!-- animate -->
+    <link rel="stylesheet" href="assets-slide/css/animate.css">
+    <!--Slick Carousel-->
+    <link rel="stylesheet" href="assets-slide/css/slick.css">
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="assets-slide/css/style.css">
+    <!-- responsive Stylesheet -->
+    <link rel="stylesheet" href="assets-slide/css/responsive.css">
+</head>
 <div class="home-slider-area style-02">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="home-slider-one">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="home-slider-one">
 
-        <!--Slider Items Start-->
-        <div class="slider-items" style="background-image: url('assets/img/bg/bg-01.png')">
-            <div class="container">
-                <div class="slider-items-wrap">
-                    <div class="slider-inner">
-                        <div class="slider-content">
-                            <div class="slider-content-inner">
-                               
-                                <div class="slider-title">
-                                    <h1 class="heading-01">REGISTER AND RENEW YOUR GENUINE CAR PAPERS WITHIN
-                                    <span class="bold">72 HOURS</span></h1>
-                                </div>
-                                <!--// Slider Title End-->
+                    <!--Slider Items Start-->
+                    <div class="slider-items" style="background-image: url('assets-slide/img/bg/bg-01.png')">
+                        <div class="container">
+                            <div class="slider-items-wrap">
+                                <div class="slider-inner">
+                                    <div class="slider-content">
+                                        <div class="slider-content-inner">
 
-                                <div class="slider-paragraph padding-bottom-25 padding-top-20">
-                                    <p>We all have a dream car some wish for a classy one where as
-                                        others dream of having a
-                                        simple old school one. If is often that you may see someone in a
-                                        car and say</p>
+                                            <div class="slider-title">
+                                                <h4>
+                                                    <b> REGISTER AND RENEW YOUR <br> GENUINE CAR PAPERS WITHIN</b>
+                                                </h4>
+                                                <h1 class="heading-01"> <span class="bold"> 72 HOURS</span></h1>
+                                            </div>
+                                            <!--// Slider Title End-->
+
+                                            <div class="slider-paragraph padding-bottom-25 padding-top-20">
+                                                <p>(With free doorstep delivery)</p>
+                                            </div>
+                                            <!--// Slider Paragraph End-->
+                                            <div class="main-btn-wrap">
+                                                <a href="#" class="main-btn">sign up Now</a>
+                                            </div>
+                                            <!--// Main Btn Wrap End-->
+                                        </div>
+                                    </div>
+                                    <!--// Slider Content End-->
+                                    <div class="slider-img">
+                                        <!-- <img src="assets-slide/img/slider/Car_1.png" alt="img"> -->
+                                        <img src="assets/img/Car_1.png" alt="img">
+                                    </div>
+                                    <!--// Slider Img-->
                                 </div>
-                                <!--// Slider Paragraph End-->
-                                <div class="main-btn-wrap">
-                                    <a href="#" class="main-btn">sign up Now</a>
-                                </div>
-                                <!--// Main Btn Wrap End-->
+                                <!--// Slider Inner-->
+
+
                             </div>
+                            <!--// Slider Item Wrap-->
                         </div>
-                        <!--// Slider Content End-->
-                        <div class="slider-img">
-                            <img src="assets/img/slider/h2-slider-031.png" alt="img">
-                        </div>
-                        <!--// Slider Img-->
+                        <!--//Container-->
                     </div>
-                    <!--// Slider Inner-->
+                    <!--// Slider Items End-->
+                    <!--Slider Items Start-->
+                    <div class="slider-items" style="background-image: url('assets-slide/img/bg/bg-01.png')">
+                        <div class="container">
+                            <div class="slider-items-wrap">
+                                <div class="slider-inner">
+                                    <div class="slider-content">
+                                        <div class="slider-content-inner">
 
-                    
-                </div>
-                <!--// Slider Item Wrap-->
-            </div>
-            <!--//Container-->
-        </div>
-        <!--// Slider Items End-->
+                                            <div class="slider-title">
+                                                <h4>
+                                                    <b> REGISTER AND RENEW YOUR <br> GENUINE CAR PAPERS WITHIN</b>
+                                                </h4>
+                                                <h1 class="heading-01"> <span class="bold"> 72 HOURS</span></h1>
+                                            </div>
+                                            <!--// Slider Title End-->
 
-        <!--Slider Items Start-->
-        <div class="slider-items" style="background-image: url('assets/img/bg/bg-01.png')">
-            <div class="container">
-                <div class="slider-items-wrap">
-                    <div class="slider-inner">
-                        <div class="slider-content">
-                            <div class="slider-content-inner">
-                                <!--Section Title-->
-                                <div class="section-title padding-bottom-10">
-                                    <h6 class="title uppercase black"> Introducing The </h6>
+                                            <div class="slider-paragraph padding-bottom-25 padding-top-20">
+                                                <p>(With free doorstep delivery)</p>
+                                            </div>
+                                            <!--// Slider Paragraph End-->
+                                            <div class="main-btn-wrap">
+                                                <a href="#" class="main-btn">sign up Now</a>
+                                            </div>
+                                            <!--// Main Btn Wrap End-->
+                                        </div>
+                                    </div>
+                                    <!--// Slider Content End-->
+                                    <div class="slider-img">
+                                        <img src="assets/img/Car_2.png" alt="img">
+                                        
+                                    </div>
+                                    <!--// Slider Img-->
                                 </div>
-                                <!--// Section Title End-->
+                                <!--// Slider Inner-->
 
-                                <div class="slider-title">
-                                    <h1 class="heading-01">Mercedes-AMG GT <span class="bold">c
-                                            roadster</span></h1>
-                                </div>
-                                <!--// Slider Title End-->
 
-                                <div class="slider-paragraph padding-bottom-25 padding-top-20">
-                                    <p>We all have a dream car some wish for a classy one where as
-                                        others dream of having a
-                                        simple old school one. If is often that you may see someone in a
-                                        car and say</p>
-                                </div>
-                                <!--// Slider Paragraph End-->
-                                <div class="main-btn-wrap">
-                                    <a href="#" class="main-btn">order now</a>
-                                </div>
-                                <!--// Main Btn Wrap End-->
                             </div>
+                            <!--// Slider Item Wrap-->
                         </div>
-                        <!--// Slider Content End-->
-                        <div class="slider-img">
-                            <img src="assets/img/slider/h2-slider-02.png" alt="img">
-                        </div>
-                        <!--// Slider Img-->
+                        <!--//Container-->
                     </div>
-                    <!--// Slider Inner-->
+                    <!--// Slider Items End-->
+                    <!--Slider Items Start-->
+                    <div class="slider-items" style="background-image: url('assets-slide/img/bg/bg-01.png')">
+                        <div class="container">
+                            <div class="slider-items-wrap">
+                                <div class="slider-inner">
+                                    <div class="slider-content">
+                                        <div class="slider-content-inner">
 
-                    
+                                            <div class="slider-title">
+                                                <h4>
+                                                    <b> REGISTER AND RENEW YOUR <br> GENUINE CAR PAPERS WITHIN</b>
+                                                </h4>
+                                                <h1 class="heading-01"> <span class="bold"> 72 HOURS</span></h1>
+                                            </div>
+                                            <!--// Slider Title End-->
+
+                                            <div class="slider-paragraph padding-bottom-25 padding-top-20">
+                                                <p>(With free doorstep delivery)</p>
+                                            </div>
+                                            <!--// Slider Paragraph End-->
+                                            <div class="main-btn-wrap">
+                                                <a href="#" class="main-btn">sign up Now</a>
+                                            </div>
+                                            <!--// Main Btn Wrap End-->
+                                        </div>
+                                    </div>
+                                    <!--// Slider Content End-->
+                                    <div class="slider-img">
+                                        <!-- <img src="assets-slide/img/slider/Car_3.png" alt="img"> -->
+                                        <img src="assets/img/Car_3.png" alt="img">
+                                    </div>
+                                    <!--// Slider Img-->
+                                </div>
+                                <!--// Slider Inner-->
+
+
+                            </div>
+                            <!--// Slider Item Wrap-->
+                        </div>
+                        <!--//Container-->
+                    </div>
+                    <!--// Slider Items End-->
+                    <!--Slider Items Start-->
+                    <div class="slider-items" style="background-image: url('assets-slide/img/bg/bg-01.png')">
+                        <div class="container">
+                            <div class="slider-items-wrap">
+                                <div class="slider-inner">
+                                    <div class="slider-content">
+                                        <div class="slider-content-inner">
+
+                                            <div class="slider-title">
+                                                <h4>
+                                                    <b> REGISTER AND RENEW YOUR <br> GENUINE CAR PAPERS WITHIN</b>
+                                                </h4>
+                                                <h1 class="heading-01"> <span class="bold"> 72 HOURS</span></h1>
+                                            </div>
+                                            <!--// Slider Title End-->
+
+                                            <div class="slider-paragraph padding-bottom-25 padding-top-20">
+                                                <p>(With free doorstep delivery)</p>
+                                            </div>
+                                            <!--// Slider Paragraph End-->
+                                            <div class="main-btn-wrap">
+                                                <a href="#" class="main-btn">sign up Now</a>
+                                            </div>
+                                            <!--// Main Btn Wrap End-->
+                                        </div>
+                                    </div>
+                                    <!--// Slider Content End-->
+                                    <div class="slider-img">
+                                        <img src="assets/img/Car_4.png" alt="img">
+                                    </div>
+                                    <!--// Slider Img-->
+                                </div>
+                                <!--// Slider Inner-->
+
+
+                            </div>
+                            <!--// Slider Item Wrap-->
+                        </div>
+                        <!--//Container-->
+                    </div>
+                    <!--// Slider Items End-->
+                      <!--Slider Items Start-->
+                      <div class="slider-items" style="background-image: url('assets-slide/img/bg/bg-01.png')">
+                        <div class="container">
+                            <div class="slider-items-wrap">
+                                <div class="slider-inner">
+                                    <div class="slider-content">
+                                        <div class="slider-content-inner">
+
+                                            <div class="slider-title">
+                                                <h4>
+                                                    <b> REGISTER AND RENEW YOUR <br> GENUINE CAR PAPERS WITHIN</b>
+                                                </h4>
+                                                <h1 class="heading-01"> <span class="bold"> 72 HOURS</span></h1>
+                                            </div>
+                                            <!--// Slider Title End-->
+
+                                            <div class="slider-paragraph padding-bottom-25 padding-top-20">
+                                                <p>(With free doorstep delivery)</p>
+                                            </div>
+                                            <!--// Slider Paragraph End-->
+                                            <div class="main-btn-wrap">
+                                                <a href="#" class="main-btn">sign up Now</a>
+                                            </div>
+                                            <!--// Main Btn Wrap End-->
+                                        </div>
+                                    </div>
+                                    <!--// Slider Content End-->
+                                    <div class="slider-img">
+                                        <img src="assets/img/Car_5.png" alt="img">
+                                    </div>
+                                    <!--// Slider Img-->
+                                </div>
+                                <!--// Slider Inner-->
+
+
+                            </div>
+                            <!--// Slider Item Wrap-->
+                        </div>
+                        <!--//Container-->
+                    </div>
+                    <!--// Slider Items End-->
+                      <!--Slider Items Start-->
+                      <div class="slider-items" style="background-image: url('assets-slide/img/bg/bg-01.png')">
+                        <div class="container">
+                            <div class="slider-items-wrap">
+                                <div class="slider-inner">
+                                    <div class="slider-content">
+                                        <div class="slider-content-inner">
+
+                                            <div class="slider-title">
+                                                <h4>
+                                                    <b> REGISTER AND RENEW YOUR <br> GENUINE CAR PAPERS WITHIN</b>
+                                                </h4>
+                                                <h1 class="heading-01"> <span class="bold"> 72 HOURS</span></h1>
+                                            </div>
+                                            <!--// Slider Title End-->
+
+                                            <div class="slider-paragraph padding-bottom-25 padding-top-20">
+                                                <p>(With free doorstep delivery)</p>
+                                            </div>
+                                            <!--// Slider Paragraph End-->
+                                            <div class="main-btn-wrap">
+                                                <a href="#" class="main-btn">sign up Now</a>
+                                            </div>
+                                            <!--// Main Btn Wrap End-->
+                                        </div>
+                                    </div>
+                                    <!--// Slider Content End-->
+                                    <div class="slider-img">
+                                        <img src="assets/img/Car_6.png" alt="img">
+                                    </div>
+                                    <!--// Slider Img-->
+                                </div>
+                                <!--// Slider Inner-->
+
+
+                            </div>
+                            <!--// Slider Item Wrap-->
+                        </div>
+                        <!--//Container-->
+                    </div>
+                    <!--// Slider Items End-->
                 </div>
-                <!--// Slider Item Wrap-->
+                <!--// Home 02 Slider Active-->
+
+
             </div>
-            <!--//Container-->
+            <!--// Slider Row End-->
         </div>
-        <!--// Slider Items End-->
+
+        <!--Carouse Dots Area-->
+        <div class="carousel-dots-area">
+            <div class="container">
+                <div class="carousel-dots">
+                </div>
+            </div>
+        </div>
+        <!--// Carouse Dots Area End-->
     </div>
-                    <!--// Home 02 Slider Active-->
-                    <div class="home-slider-area__bottom-area"
-                        style="background-image: url('assets/img/bg/bg-03.png');">
-                        <div class="container px-lg-0">
-                            <div class="slider-bottom-inner">
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <!--// Slider Row End-->
-            </div>
-
-            <!--Carouse Dots Area-->
-            <div class="carousel-dots-area">
-                <div class="container">
-                    <div class="carousel-dots">
-                    </div>
-                </div>
-            </div>
-            <!--// Carouse Dots Area End-->
-        </div>
-        <!--//Slider Area End-->
+    <!--//Slider Area End-->
     </div>
     <!--// Full Width Sider End-->
+
+ <!-- jquery -->
+ <script src="assets-slide/js/jquery-3.4.1.min.js"></script>
+    <!--migrate-->
+    <script src="assets-slide/js/jquery-migrate.min.js"></script>
+    <!-- bootstrap -->
+    <script src="assets-slide/js/bootstrap.min.js"></script>
+    <!--Mean Menu-->
+    <script src="assets-slide/js/jquery.meanmenu.min.js"></script>
+    <!-- waypoint -->
+    <script src="assets-slide/js/waypoints.min.js"></script>
+    <!-- wow -->
+    <script src="assets-slide/js/wow.min.js"></script>
+    <!--Slick Js-->
+    <script src="assets-slide/js/slick.min.js"></script>
+    <!-- counterup -->
+    <script src="assets-slide/js/jQuery.rcounter.js"></script>
+    <!--Custom Video Popup-->
+    <script src="assets-slide/js/jquery.rPopup.js"></script>
+    <!--Nice Select-->
+    <script src="assets-slide/js/jquery.nice-select.min.js"></script>
+    <!-- imageloaded -->
+    <script src="assets-slide/js/imagesloaded.pkgd.min.js"></script>
+    <!--Google Map API-->
+    <!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCVyNXoXHkqAwBKJaouZWhHPCP5vg7N0HQ&callback=initMap"
+    async defer></script> -->
+    <!--Google Map Active-->
+    <!-- <script src="assets-slide/js/goolg-map-activate.js"></script> -->
+    <!-- main js -->
+    <script src="assets-slide/js/main.js"></script>

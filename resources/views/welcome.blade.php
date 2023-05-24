@@ -10,7 +10,6 @@
     <script src="assets/bootstrap-5.0.2/dist/js/bootstrap.bundle.min.js"></script>
     <link rel="stylesheet" href="assets/fontawesome-6/dist-font/css/font-awesome.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
-    <link rel="stylesheet" href="assets/css/styleslide.css">
 </head>
 
 <body>
@@ -21,8 +20,8 @@
     <!-- Navbar -->
    
     <main id="main">
-         
-        <section class="shadow bg-light">
+    @include('layouts.slide')
+        <!-- <section class="shadow bg-light">
             <div class="container">
                 <div class="row p-3">
                     <div class="col-md-6 p-5 side  text-center">
@@ -40,8 +39,9 @@
 
                 </div>
             </div>
-        </section>
-        <section class="shadow-sm bg-white">
+        </section> -->
+        @include('layouts.whoarewe')
+        <!-- <section class="shadow-sm bg-white">
             <div class="container">
                 <div class="row p-3">
                     <div class="col-md-6 p-5 side  ">
@@ -58,18 +58,10 @@
 
                 </div>
             </div>
-        </section>
-        <section class="container">
-            <div class="row p-4 pt-5 products">
-                <h4 class="text-center sub-main-color">Our Products</h4>
-                <p class="text-center p-2 pe-3 ps-3">
-                With our years of experience, we broker and aggregate the best deals in all our product with 
-                our trusted and <br> verified vendors across Nigeria to support individuals, 
-                groups and travel consultants. <br> You can compare our price with what your agent. 
-
-                </p>
-            </div>
-        </section>
+        </section> -->
+        @include('layouts.testimony')
+        @include('layouts.howitwork')
+       
        
         
         
