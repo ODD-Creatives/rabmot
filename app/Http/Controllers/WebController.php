@@ -22,6 +22,10 @@ class WebController extends Controller
     {
         return view('aboutus');
     }
+    public function contactus()
+    {
+        return view('contactus');
+    }
 
     public function faq()
     {
@@ -33,24 +37,25 @@ class WebController extends Controller
         return view('help');
     }
 
-    public function air()
+    public function community()
     {
-        return view('air.index');
+        return view('community');
     }
-
-    public function land()
+    public function discusion()
     {
-        return view('land.index');
+        return view('discusion');
     }
-
-    public function water()
+    public function pricing()
     {
-        return view('water.index');
+        return view('papers');
     }
-
-    public function rail()
+    public function terms()
     {
-        return view('rail.index');
+        return view('terms');
+    }
+    public function policy()
+    {
+        return view('policy');
     }
 
 }
