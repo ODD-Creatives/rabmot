@@ -12,7 +12,7 @@
                             <a class="nav-link"  href="pricing" id="a-nav">Check Pricing</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link"  href="#" id="a-nav">Process Papers</a>
+                            <a class="nav-link"  href="signin" id="a-nav">Process Papers</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link"  href="contactus" id="a-nav">Contact Us</a>
@@ -21,7 +21,7 @@
                             <a class="nav-link"  href="community" id="a-nav">Community</a>
                         </li> 
                         <li>
-                        <a class="nav-link "  href="rail" id="a-nav"><button class="btn-radius btn-nav"> Sign Up</button></a>
+                        <a class="nav-link "  href="signup" id="a-nav"><button class="btn-radius btn-nav"> Sign Up</button></a>
                         </li>
 
                        
