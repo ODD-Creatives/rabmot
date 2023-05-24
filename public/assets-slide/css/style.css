@@ -9058,8 +9058,8 @@ input:focus {
     .sign-register-area-inner::after {
       content: '';
       position: absolute;
-      display: block;
-      background-color: rgba(24, 24, 24, 0.4);
+      display: block;  
+      background-color: rgba(20, 36, 68, 0.6);
       width: 100%;
       height: 100%;
       z-index: -1; }
@@ -9073,7 +9073,10 @@ input:focus {
       line-height: 24px;
       font-family: var(--body-font);
       font-weight: 400;
-      padding: 10px 0; }
+      padding: 10px 0;
+      color: whitesmoke;
+    }
+      
 
 .sign-in-area .btn-login-with {
   color: #fff;
@@ -9224,7 +9227,7 @@ input:focus {
   display: -ms-flexbox;
   display: flex; }
   .sign-in-area .form-bottom-area .remember-me, .sign-in-area .form-bottom-area .forgot-password {
-    width: 50%; }
+    width: 100%; }
   .sign-in-area .form-bottom-area .remember-me {
     display: -webkit-box;
     display: -ms-flexbox;
