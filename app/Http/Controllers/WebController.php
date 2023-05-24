@@ -57,5 +57,13 @@ class WebController extends Controller
     {
         return view('policy');
     }
+    public function signin()
+    {
+        return view('signin');
+    }
+    public function signup()
+    {
+        return view('signup');
+    }
 
 }
