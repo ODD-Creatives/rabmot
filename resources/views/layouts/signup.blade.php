@@ -41,14 +41,24 @@
                         <form action="">
                             
 
-                            <label for="name">Full Name</label>
+                            <label for="name">Firstname</label>
                             <div class="input-group">
                                 <div class="input-group-prepend">
                                     <span class="input-group-text">
                                         <i class="icon flaticon-man-user"></i>
                                     </span>
                                 </div>
-                                <input type="text" class="form-control" id="name" placeholder="Enter Your Name">
+                                <input type="text" class="form-control" id="firstname" placeholder="Enter Your Firstname">
+                            </div>
+
+                            <label for="name">Lastname</label>
+                            <div class="input-group">
+                                <div class="input-group-prepend">
+                                    <span class="input-group-text">
+                                        <i class="icon flaticon-man-user"></i>
+                                    </span>
+                                </div>
+                                <input type="text" class="form-control" id="lastname" placeholder="Enter Your lastname">
                             </div>
                             <!--// Email-->
 
